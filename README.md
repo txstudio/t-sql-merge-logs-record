@@ -1,8 +1,10 @@
 # 使用 Transact-SQL 的 MERGE 進行指定資料表的同步作業
 
+建立來源與目的地資料表內容，使用 MERGE 對資料表進行合併，並將合併結果記錄到同步紀錄資料表。
+
 ## 檔案說明
 
-此 Github 內容將有兩個檔案
+此內容有兩個 Transact-SQL 檔案
 - prepare-schema.sql
 - merge-with-output-record.sql
 
